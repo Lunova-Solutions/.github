@@ -36,7 +36,6 @@ We’re always open to partnerships, contributors, and conversations.
 
 - 🌐 [Visit our website](https://lunova-solutions.de)
 - ✉️ [Contact us](mailto:hey@lunova-solutions.de)
-- 🟦 [Follow us on LinkedIn](https://www.linkedin.com/company/simpledpp/)
 
 ---
 
@@ -44,4 +43,5 @@ We’re always open to partnerships, contributors, and conversations.
 _Transforming ideas into powerful, reliable technology._
 
 > “Technology should empower people, not complicate their lives.”
+
 
