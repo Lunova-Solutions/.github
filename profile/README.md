@@ -35,6 +35,7 @@ Our mission is to help you scale faster, build smarter, and operate securely.
 We’re always open to partnerships, contributors, and conversations.
 
 - 🌐 [Visit our website](https://lunova-solutions.de)
+- 🟦 [Follow us on LinkedIn](https://www.linkedin.com/company/lunova-solutions)
 - ✉️ [Contact us](mailto:hey@lunova-solutions.de)
 
 ---
